@@ -1,2 +1,3 @@
 # Corona-virus-tracking-system
-A project using Rest API
+This project is made in the cosncept of implementing a ReST API in web application.
+This project is made using Java spring boot.
